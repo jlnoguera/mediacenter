@@ -1,0 +1,9 @@
+{
+    "actions":[
+       {
+           "action": "MENU",
+           "params":["Radio Streaming","Mp3","Video","Configuracion"], 
+           "values":["Radio()","Mp389","Video()","Configuracion()"] 
+       }
+    ] 
+}    

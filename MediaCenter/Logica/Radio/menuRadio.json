@@ -1,0 +1,10 @@
+
+   {
+       "actions":[
+          {
+              "action": "MENU",
+              "params":["40 Principales","M80Radio","Cadena Dial"], 
+              "values":["http://40principales.com","http://m80Radio.com","http://CadenaDial.com"] 
+          }
+       ] 
+   }    
